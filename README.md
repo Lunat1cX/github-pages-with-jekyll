@@ -3,7 +3,7 @@
 My **School** Email: khrushkouski@ebnet.org
 
 
-# My Brag Sheet
+# My Brag Sheet:
 
 **1.** Well if you're viewing this website that means I've successfully created one with the use of Github Pages.
 
@@ -14,8 +14,6 @@ My **School** Email: khrushkouski@ebnet.org
 **4.** I have played Water Polo for 8 years, until Covid hit.
 
 
-# A Picture of Me
+# A Picture of Me:
 
 ![](https://i.imgur.com/TtfOKr2.jpg?2)
-
-
