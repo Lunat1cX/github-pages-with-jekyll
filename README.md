@@ -16,6 +16,7 @@ My **School** Email: khrushkouski@ebnet.org
 
 # A Picture of Me
 
+![test image size](https://i.imgur.com/TtfOKr2.jpg){:height="50%" width="50%"}
 ![](https://i.imgur.com/TtfOKr2.jpg=250x250)
 
 
