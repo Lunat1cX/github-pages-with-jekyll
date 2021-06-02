@@ -3,10 +3,10 @@ theme: jekyll-theme-cayman
 author: Lunat1cX
 school_email: khrushkouski@ebnet.org
 description: > # this means to ignore newlines until "baseurl:"
-  My name is Konstantin Hrushkouski and the purpose of this website is to provide my social media information, an image, and a brag sheet of my accomplishments.
+  My name is Konstantin Hrushkouski and the purpose of this website is to provide my social media information, a brag sheet of my accomplishments, and an image.
 
 # social links
 twitter_username: Lunat1cOfficial
 github_username:  Lunat1cX
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: false # set to false to remove excerpts on the homepage
