@@ -1,11 +1,13 @@
+---
+layout: default
+---
+
 title: My Sophomore AP Computer Science Website
 theme: jekyll-theme-cayman
 author: Lunat1cX
 school_email: khrushkouski@ebnet.org
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  My name is Konstantin Hrushkouski and the purpose of this website is to provide an image, my social media information, and a brag sheet.
 
 # social links
 twitter_username: Lunat1cOfficial
