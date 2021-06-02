@@ -21,6 +21,7 @@ My **Personal** Email: lunat1cxtv@gmail.com
 
 
 # My Steam Profile
+(I don't know what image is to be expected but here's one)
 ![Imgur Image](https://i.imgur.com/t3OKYkq.png)
 
 
