@@ -1,4 +1,4 @@
 ---
-title: "My-Title"
-date: 2021-06-02
+Title: "My AP Computer Science Website"
+Date: 2021-06-02
 ---
