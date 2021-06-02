@@ -7,10 +7,6 @@ My **School** Email: khrushkouski@ebnet.org
 My **Personal** Email: lunat1cxtv@gmail.com
 
 
-# My Steam Profile
-![Imgur Image](https://i.imgur.com/t3OKYkq.png)
-
-
 # My Brag Sheet
 
 **1.** Well if youi're viewing this website that means I've successfully created one with the use of Github Pages.
@@ -24,3 +20,10 @@ My **Personal** Email: lunat1cxtv@gmail.com
 **5.** I have played Water Polo for 8 years, until Covid hit.
 
 **6.** 
+
+
+# My Steam Profile
+![Imgur Image](https://i.imgur.com/t3OKYkq.png)
+
+
+
