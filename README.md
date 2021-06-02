@@ -19,8 +19,6 @@ My **Personal** Email: lunat1cxtv@gmail.com
 
 **5.** I have played Water Polo for 8 years, until Covid hit.
 
-**6.** 
-
 
 # My Steam Profile
 ![Imgur Image](https://i.imgur.com/t3OKYkq.png)
