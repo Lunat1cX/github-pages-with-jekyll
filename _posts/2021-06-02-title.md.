@@ -1,2 +1,10 @@
-title - no title to be found.
-this is a quick test of my blog post.
+---
+layout: post
+title:  "Welcome to Jekyll!"
+---
+
+# Welcome
+
+**Hello world**, this is my first Jekyll blog post.
+
+I hope you like it!
