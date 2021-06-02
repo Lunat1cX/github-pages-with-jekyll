@@ -9,7 +9,7 @@ My **Personal** Email: lunat1cxtv@gmail.com
 
 # My Brag Sheet
 
-**1.** Well if youi're viewing this website that means I've successfully created one with the use of Github Pages.
+**1.** Well if you're viewing this website that means I've successfully created one with the use of Github Pages.
 
 **2.** I have over 1.2k hours in a game called Escape from Tarkov
 
